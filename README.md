@@ -1,4 +1,4 @@
-# pong-game
+# Pong
 This is a python implementation of the Pong.
 Run the main.py file to play.
 
